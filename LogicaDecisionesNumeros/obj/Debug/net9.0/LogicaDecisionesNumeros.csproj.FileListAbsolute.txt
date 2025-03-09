@@ -1,0 +1,14 @@
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\LogicaDecisionesNumeros\bin\Debug\net9.0\LogicaDecisionesNumeros.exe
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\LogicaDecisionesNumeros\bin\Debug\net9.0\LogicaDecisionesNumeros.deps.json
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\LogicaDecisionesNumeros\bin\Debug\net9.0\LogicaDecisionesNumeros.runtimeconfig.json
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\LogicaDecisionesNumeros\bin\Debug\net9.0\LogicaDecisionesNumeros.dll
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\LogicaDecisionesNumeros\bin\Debug\net9.0\LogicaDecisionesNumeros.pdb
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\LogicaDecisionesNumeros\obj\Debug\net9.0\LogicaDecisionesNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\LogicaDecisionesNumeros\obj\Debug\net9.0\LogicaDecisionesNumeros.AssemblyInfoInputs.cache
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\LogicaDecisionesNumeros\obj\Debug\net9.0\LogicaDecisionesNumeros.AssemblyInfo.cs
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\LogicaDecisionesNumeros\obj\Debug\net9.0\LogicaDecisionesNumeros.csproj.CoreCompileInputs.cache
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\LogicaDecisionesNumeros\obj\Debug\net9.0\LogicaDecisionesNumeros.dll
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\LogicaDecisionesNumeros\obj\Debug\net9.0\refint\LogicaDecisionesNumeros.dll
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\LogicaDecisionesNumeros\obj\Debug\net9.0\LogicaDecisionesNumeros.pdb
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\LogicaDecisionesNumeros\obj\Debug\net9.0\LogicaDecisionesNumeros.genruntimeconfig.cache
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\LogicaDecisionesNumeros\obj\Debug\net9.0\ref\LogicaDecisionesNumeros.dll

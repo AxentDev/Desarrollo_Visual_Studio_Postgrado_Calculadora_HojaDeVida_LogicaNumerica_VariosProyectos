@@ -1,0 +1,14 @@
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\Numeros1al10\bin\Debug\net9.0\Numeros1al10.exe
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\Numeros1al10\bin\Debug\net9.0\Numeros1al10.deps.json
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\Numeros1al10\bin\Debug\net9.0\Numeros1al10.runtimeconfig.json
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\Numeros1al10\bin\Debug\net9.0\Numeros1al10.dll
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\Numeros1al10\bin\Debug\net9.0\Numeros1al10.pdb
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\Numeros1al10\obj\Debug\net9.0\Numeros1al10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\Numeros1al10\obj\Debug\net9.0\Numeros1al10.AssemblyInfoInputs.cache
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\Numeros1al10\obj\Debug\net9.0\Numeros1al10.AssemblyInfo.cs
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\Numeros1al10\obj\Debug\net9.0\Numeros1al10.csproj.CoreCompileInputs.cache
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\Numeros1al10\obj\Debug\net9.0\Numeros1al10.dll
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\Numeros1al10\obj\Debug\net9.0\refint\Numeros1al10.dll
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\Numeros1al10\obj\Debug\net9.0\Numeros1al10.pdb
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\Numeros1al10\obj\Debug\net9.0\Numeros1al10.genruntimeconfig.cache
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\Numeros1al10\obj\Debug\net9.0\ref\Numeros1al10.dll

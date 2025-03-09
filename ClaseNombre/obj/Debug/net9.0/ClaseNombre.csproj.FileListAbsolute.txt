@@ -1,0 +1,14 @@
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\ClaseNombre\obj\Debug\net9.0\ClaseNombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\ClaseNombre\obj\Debug\net9.0\ClaseNombre.AssemblyInfoInputs.cache
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\ClaseNombre\obj\Debug\net9.0\ClaseNombre.AssemblyInfo.cs
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\ClaseNombre\obj\Debug\net9.0\ClaseNombre.csproj.CoreCompileInputs.cache
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\ClaseNombre\bin\Debug\net9.0\ClaseNombre.exe
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\ClaseNombre\bin\Debug\net9.0\ClaseNombre.deps.json
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\ClaseNombre\bin\Debug\net9.0\ClaseNombre.runtimeconfig.json
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\ClaseNombre\bin\Debug\net9.0\ClaseNombre.dll
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\ClaseNombre\bin\Debug\net9.0\ClaseNombre.pdb
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\ClaseNombre\obj\Debug\net9.0\ClaseNombre.dll
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\ClaseNombre\obj\Debug\net9.0\refint\ClaseNombre.dll
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\ClaseNombre\obj\Debug\net9.0\ClaseNombre.pdb
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\ClaseNombre\obj\Debug\net9.0\ClaseNombre.genruntimeconfig.cache
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\ClaseNombre\obj\Debug\net9.0\ref\ClaseNombre.dll

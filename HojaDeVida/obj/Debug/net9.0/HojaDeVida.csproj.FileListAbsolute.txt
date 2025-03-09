@@ -1,0 +1,14 @@
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\HojaDeVida\bin\Debug\net9.0\HojaDeVida.exe
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\HojaDeVida\bin\Debug\net9.0\HojaDeVida.deps.json
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\HojaDeVida\bin\Debug\net9.0\HojaDeVida.runtimeconfig.json
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\HojaDeVida\bin\Debug\net9.0\HojaDeVida.dll
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\HojaDeVida\bin\Debug\net9.0\HojaDeVida.pdb
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\HojaDeVida\obj\Debug\net9.0\HojaDeVida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\HojaDeVida\obj\Debug\net9.0\HojaDeVida.AssemblyInfoInputs.cache
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\HojaDeVida\obj\Debug\net9.0\HojaDeVida.AssemblyInfo.cs
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\HojaDeVida\obj\Debug\net9.0\HojaDeVida.csproj.CoreCompileInputs.cache
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\HojaDeVida\obj\Debug\net9.0\HojaDeVida.dll
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\HojaDeVida\obj\Debug\net9.0\refint\HojaDeVida.dll
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\HojaDeVida\obj\Debug\net9.0\HojaDeVida.pdb
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\HojaDeVida\obj\Debug\net9.0\HojaDeVida.genruntimeconfig.cache
+C:\Users\gran_\Documents\Estudio\VisualStudio-Azure\HojaDeVida\obj\Debug\net9.0\ref\HojaDeVida.dll
